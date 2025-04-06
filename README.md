@@ -6,3 +6,6 @@
 2.useState
 
 ![image](https://github.com/user-attachments/assets/a999afbd-bc45-40d3-a150-44762a8b8552)
+
+3.Dark/Light mode toggle
+![image](https://github.com/user-attachments/assets/150f1f71-ce19-448d-b598-f9c5662f8302)
